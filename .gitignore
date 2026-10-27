@@ -1,0 +1,10 @@
+# materiais de trabalho (rascunhos, fontes da marca, exportações para o Figma, backups): só na máquina local
+recursos/
+
+# sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+node_modules/
+.vercel

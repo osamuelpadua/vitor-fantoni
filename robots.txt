@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://osamuelpadua.github.io/vitor-fantoni/sitemap.xml

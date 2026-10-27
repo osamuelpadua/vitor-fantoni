@@ -1,0 +1,14 @@
+{
+  "name": "Vitor Fantoni Advogado",
+  "short_name": "Vitor Fantoni",
+  "description": "Advogado em Direito Médico e da Saúde em Ribeirão Preto.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#151f2d",
+  "theme_color": "#151f2d",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
